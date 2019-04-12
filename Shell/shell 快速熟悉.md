@@ -25,6 +25,8 @@ echo "My name is $name"
 unset name		#删除变量，不能删除只读变量
 ```
 
+`赋值的时候，等号两边有空格会报错`
+
 3.整型
 
 ```shell
